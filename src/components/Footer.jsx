@@ -10,7 +10,7 @@ export function Footer() {
                 <Row className="gy-2">
                     <Col md={3}>
                         <div className="footer-brand mb-3">
-                            <a href="https://github.com/iemafzalhassan/online_shop" 
+                            <a href="https://github.com/zjtdzyx/shopping-system" 
                                className="brand-link d-inline-flex align-items-center"
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
@@ -23,11 +23,11 @@ export function Footer() {
                         <div className="contact-info">
                             <div className="contact-item mb-2">
                                 <FontAwesomeIcon icon={faMapMarkerAlt} className="contact-icon me-2" />
-                                <span><strong>Address:</strong> Bihar, India</span>
+                                <span><strong>Address:</strong> Wuhan China</span>
                             </div>
                             <div className="contact-item">
                                 <FontAwesomeIcon icon={faPhone} className="contact-icon me-2" />
-                                <span><strong>Helpline:</strong> +91 9999999999</span>
+                                <span><strong>Helpline:</strong> +86 13627106814</span>
                             </div>
                         </div>
                     </Col>
@@ -37,15 +37,15 @@ export function Footer() {
                         <div className="quick-links-group">
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">Privacy Policy</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">Privacy Policy</a>
                             </div>
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">Terms & Conditions</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">Terms & Conditions</a>
                             </div>
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">Return Policy</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">Return Policy</a>
                             </div>
                         </div>
                     </Col>
@@ -55,15 +55,15 @@ export function Footer() {
                         <div className="quick-links-group">
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">Shipping Info</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">Shipping Info</a>
                             </div>
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">FAQ</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">FAQ</a>
                             </div>
                             <div className="quick-link-item">
                                 <FontAwesomeIcon icon={faLink} className="contact-icon me-2" />
-                                <a href="https://iemafzalhassan.tech" className="footer-link">Support</a>
+                                <a href="https://zjtdzyx.tech" className="footer-link">Support</a>
                             </div>
                         </div>
                     </Col>
@@ -76,7 +76,7 @@ export function Footer() {
                             </h5>
                             <div className="social-links-horizontal">
                                 <a 
-                                    href="https://github.com/iemafzalhassan" 
+                                    href="https://github.com/zjtdzyx" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -84,7 +84,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faGithub} />
                                 </a>
                                 <a 
-                                    href="https://linkedin.com/in/iemafzalhassan" 
+                                    href="https://linkedin.com/in/zjtdzyx" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -92,7 +92,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faLinkedin} />
                                 </a>
                                 <a 
-                                    href="https://twitter.com/iemafzalhassan" 
+                                    href="https://twitter.com/zjtdzyx" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
